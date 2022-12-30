@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="chatbox.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    
+</head>
+<body>
+ <div class="container">
+    <div class="msg-header">
+        <div class="msg-header-img">
+            <img src="C:\Users\saksh\OneDrive\Desktop\login1\OIP (1).jfif">
+        </div>
+        <div class="active">
+            <h4>Kary Lewis</h4>
+            <h6>3 hours ago </h6>
+        </div>
+        <div class="header-icons">
+            <i class='bx bxs-phone'></i>
+            <i class='bx bxs-camera-movie'></i>
+            <i class='bx bxs-info-circle'></i>
+        </div>
+    </div>
+    <div class="chat-page">
+        <div class="msg-inbox">
+            <div class="chats">
+                <div class="msg-page">
+                    <div class="recieved-chats">
+                        <div class="recieved-chats-img">
+                            <img src="C:\Users\saksh\OneDrive\Desktop\login1\OIP (1).jfif">
+                        </div>
+                            <div class="recieved-msg">
+                                <div class="recieved-msg-inbox">
+                                    <p>Hi !! This is message 1.</p>
+                                    <span class="time">11:01 PM   | November 19</span>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="outgoing-chats">
+                        
+                            <div class="outgoing-chats-msg">
+                            
+                                    <p>Hi !! This is message 2.</p>
+                                    <span class="time">11:01 PM   | November 19</span>
+                                
+                            </div>
+                            <div class="outgoing-chats-img">
+                                <img src="C:\Users\saksh\Downloads\profile1 (1).jpg">
+                            </div>
+                        </div>
+                        <div class="recieved-chats">
+                            <div class="recieved-chats-img">
+                                <img src="C:\Users\saksh\OneDrive\Desktop\login1\OIP (1).jfif">
+                            </div>
+                                <div class="recieved-msg">
+                                    <div class="recieved-msg-inbox">
+                                        <p>Hi !! This is message 3.</p>
+                                        <span class="time">11:02 PM   | November 19</span>
+                                    </div>
+                                </div>
+                        </div>
+                        <div class="outgoing-chats">
+                            
+                                <div class="outgoing-chats-msg">
+                                
+                                        <p>Hi !! This is message 4.</p>
+                                        <span class="time">11:02 PM   | November 19</span>
+                                    
+                                </div>
+                                <div class="outgoing-chats-img">
+                                    <img src="C:\Users\saksh\Downloads\profile1 (1).jpg">
+                                </div>
+                        </div>
+                        <div class="recieved-chats">
+                            <div class="recieved-chats-img">
+                                <img src="C:\Users\saksh\OneDrive\Desktop\login1\OIP (1).jfif">
+                            </div>
+                                <div class="recieved-msg">
+                                    <div class="recieved-msg-inbox">
+                                        <p>Hi !! This is message 5.</p>
+                                        <span class="time">11:03 PM   | November 19</span>
+                                    </div>
+                                </div>
+                        </div>
+                        <div class="outgoing-chats">
+                            
+                                <div class="outgoing-chats-msg">
+                                
+                                        <p>Hi !! This is message 6.</p>
+                                        <span class="time">11:03 PM   | November 19</span>
+                                    
+                                </div>
+                                <div class="outgoing-chats-img">
+                                    <img src="C:\Users\saksh\Downloads\profile1 (1).jpg">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="msg-bottom">
+                    <div class="bottom-icons">
+                        <i class='bx bxs-plus-circle'></i>
+                        <i class='bx bxs-camera'></i>
+                        <i class='bx bxs-microphone'></i>
+                        <i class='bx bxs-smile'></i>
+                    </div>
+                    <div class="input-box1"></div>
+                    <div class="outgoing-chats">
+                                
+                        <div class="outgoing-chats-msg11">
+                        
+                                <p  class="typeyoutext">Type Your Text</p><p class="send">➡</p>
+                               
+                            
+                        </div>
+                        
+                        <div class="outgoing-chats-img11">
+                            <img  src="C:\Users\saksh\Downloads\profile1 (1).jpg"></div>
+                        </div>
+                        </div>
+                    </div>
+                 </div>   
+                </body>
+                </html>        
