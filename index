@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SocialBook</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <!-- nav -->
+        <div class="nav container">
+            <!-- logo -->
+            <a href="#" class="logo">SocialBook</a>
+            <!-- nav icons -->
+            <div class="nav-icons">
+                <a href="#"><i class='bx bx-home-alt'></i></a>
+                <a href="#"><i class='bx bx-compass' ></i></a>
+                <a href="#"><i class='bx bx-message-add'></i></a>
+                <a href="#"><i class='bx bx-paper-plane' ></i></a>
+                <!-- nav profile -->
+                <a href="#" class="nav-profile">
+                    <img src="C:\Users\saksh\Downloads\profile1 (1).jpg" alt="" class="nav-img">
+                </a>
+                <!-- camera icon -->
+                <a href="#" class="camera">
+                    <i class='bx bx-camera'></i></a>
+
+            </div>
+        </div>
+    </header>
+        <!--main post  -->
+        <section class="main container">
+            <!-- post container -->
+            <div class="post-container">
+            <!--post box 1  -->
+            <div class="post-box">
+                <!-- post top -->
+                <div class="post-top">
+                    <!-- profile -->
+                    <div class="post-profile">
+                        <img src="C:\Users\saksh\Downloads\profile1 (1).jpg" alt="">
+                        <div class="name-location">
+                            <h3 class="profile-name">
+                                WillSmith
+                            </h3>
+                            <span class="location">New York</span>
+                            
+                        </div>
+                    </div>
+                    <!-- Info icon -->
+                    <i class='bx bx-dots-vertical-rounded info icon'></i>
+                </div>
+                <!-- main post image -->
+                <img src="C:\Users\saksh\Downloads\post-image-1 (1).jpg" alt="" class="post-img">
+                <!-- post bottom -->
+                <div class="post-bottom">
+                    <!-- actions icons -->
+                    <div class="actions-icons">
+                        <i class='bx bx-heart' ></i>
+                        <i class='bx bx-bookmark save-icon' ></i>
+                    </div>
+                    <!-- likes -->
+                    <h3 class="likes">4,148,144 likes</h3>
+                    <span class="post-time">12 hours ago</span>
+                </div>
+            </div>
+             <!--post box 2  -->
+             <div class="post-box">
+                <!-- post top -->
+                <div class="post-top">
+                    <!-- profile -->
+                    <div class="post-profile">
+                        <img src="C:\Users\saksh\Downloads\profile2 (1).jpg" alt="">
+                        <div class="name-location">
+                            <h3 class="profile-name">
+                                TomHolland
+                            </h3>
+                            <span class="location">London</span>
+                            
+                        </div>
+                    </div>
+                    <!-- Info icon -->
+                    <i class='bx bx-dots-vertical-rounded info icon'></i>
+                </div>
+                <!-- main post image -->
+                <img src="C:\Users\saksh\Downloads\profile2 (1).jpg" alt="" class="post-img">
+                <!-- post bottom -->
+                <div class="post-bottom">
+                    <!-- actions icons -->
+                    <div class="actions-icons">
+                        <i class='bx bx-heart' ></i>
+                        <i class='bx bx-bookmark save-icon' ></i>
+                    </div>
+                    <!-- likes -->
+                    <h3 class="likes">3,128,113 likes</h3>
+                    <span class="post-time">2 hours ago</span>
+                </div>
+            </div>
+            <!--post box 3  -->
+            <div class="post-box">
+               <!-- post top -->
+               <div class="post-top">
+                   <!-- profile -->
+                   <div class="post-profile">
+                       <img src="C:\Users\saksh\Downloads\NarendraModi (1).jpeg" alt="">
+                       <div class="name-location">
+                           <h3 class="profile-name">
+                               narendramodi
+                           </h3>
+                           <span class="location">India</span>
+                           
+                       </div>
+                   </div>
+                   <!-- Info icon -->
+                   <i class='bx bx-dots-vertical-rounded info icon'></i>
+               </div>
+               <!-- main post image -->
+               <img src="C:\Users\saksh\Downloads\post1 (5).jpeg" alt="" class="post-img">
+ <!-- post bottom -->
+ <div class="post-bottom">
+    <!-- actions icons -->
+    <div class="actions-icons">
+        <i class='bx bx-heart' ></i>
+        <i class='bx bx-bookmark save-icon' ></i>
+    </div>
+    <!-- likes -->
+    <h3 class="likes">9,111,144 likes</h3>
+    <span class="post-time">November 14</span>
+</div>
+</div>
+<!--post box 4 -->
+<div class="post-box">
+<!-- post top -->
+<div class="post-top">
+ <!-- profile -->
+ <div class="post-profile">
+     <img src="C:\Users\saksh\Downloads\google.jpeg" alt="">
+     <div class="name-location">
+         <h3 class="profile-name">
+             Sundarpichai
+         </h3>
+         <span class="location">New York</span>
+         
+     </div>
+ </div>
+<!-- Info icon -->
+<i class='bx bx-dots-vertical-rounded info icon'></i>
+</div>
+<!-- main post image -->
+<img src="C:\Users\saksh\Downloads\pexels-caio-67112 (1).jpg" alt="" class="post-img">
+<!-- post bottom -->
+<div class="post-bottom">
+    <!-- actions icons -->
+    <div class="actions-icons">
+        <i class='bx bx-heart' ></i>
+        <i class='bx bx-bookmark save-icon' ></i>
+    </div>
+    <!-- likes -->
+    <h3 class="likes">2,148,164 likes</h3>
+    <span class="post-time">6 days ago</span>
+</div>
+</div>
+<!--post box 5 -->
+<div class="post-box">
+<!-- post top -->
+<div class="post-top">
+    <!-- profile -->
+    <div class="post-profile">
+        <img src="C:\Users\saksh\Downloads\aman.jpeg" alt="">
+        <div class="name-location">
+            <h3 class="profile-name">
+                dhattarwalaman
+            </h3>
+            <span class="location">India</span>
+            
+        </div>
+    </div>
+    <!-- Info icon -->
+    <i class='bx bx-dots-vertical-rounded info icon'></i>
+</div>
+<!-- main post image -->
+<img src="C:\Users\saksh\Downloads\amanpost.jpeg" alt="" class="post-img">
+<!-- post bottom -->
+<div class="post-bottom">
+    <!-- actions icons -->
+    <div class="actions-icons">
+        <i class='bx bx-heart' ></i>
+        <i class='bx bx-bookmark save-icon' ></i>
+    </div>
+    <!-- likes -->
+    <h3 class="likes">108,673 likes</h3>
+    <span class="post-time">3 days ago</span>
+</div>
+</div>
+</div>
+<!-- suggest container -->
+<div class="suggest-container">
+    <!-- suggest heading -->
+    <div class="suggestion-heading">
+        <h2>Suggestion for you</h2>
+        <a href="#">See All</a>
+    </div>
+    <!-- Profile box 1 -->
+    <div class="profile-box">
+        <!-- profile -->
+        <div class="side-profile">
+            <img src="C:\Users\saksh\Downloads\profile1 (1).jpg" alt="">
+            <div class="username-popular">
+                <h2 class="username">WillSmith</h2>
+                <span class="popular">Popular</span>
+            </div>
+        </div>
+        <a href="#" class="follow-btn">Follow</a>
+         
+    </div>
+     <!-- Profile box 2 -->
+     <div class="profile-box">
+        <!-- profile -->
+        <div class="side-profile">
+            <img src="C:\Users\saksh\Downloads\NarendraModi (5).jpeg" alt="">
+            <div class="username-popular">
+                <h2 class="username">narendramodi</h2>
+                <span class="popular">Popular</span>
+            </div>
+        </div>
+        <a href="#" class="follow-btn">Follow</a>
+         
+    </div>
+     <!-- Profile box 3 -->
+     <div class="profile-box">
+        <!-- profile -->
+        <div class="side-profile">
+            <img src="C:\Users\saksh\Downloads\profile3.jpg" alt="">
+            <div class="username-popular">
+                <h2 class="username">Lalisa</h2>
+                <span class="popular">Popular</span>
+            </div>
+        </div>
+        <a href="#" class="follow-btn">Follow</a>
+         
+    </div>
+     <!-- Profile box 4 -->
+     <div class="profile-box">
+        <!-- profile -->
+        <div class="side-profile">
+            <img src="C:\Users\saksh\OneDrive\Desktop\login1\download.jfif" alt="">
+            <div class="username-popular">
+                <h2 class="username">selenagomez</h2>
+                <span class="popular">Popular</span>
+            </div>
+        </div>
+        <a href="#" class="follow-btn">Follow</a>                     
+    </div>
+</div>
+
+</section>
+</body>
+</html>
+
